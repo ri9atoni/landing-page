@@ -1,5 +1,6 @@
 body {
     font-family: "Inter", sans-serif;
+    margin: 0;
 }
 
 button {
@@ -37,7 +38,6 @@ a {
 }
 
 section {
-    margin-bottom: 30px;
     padding: 60px;
 
 }
@@ -45,6 +45,7 @@ section {
     display: flex;
     justify-content: center;
     gap: 30px;
+    background-color: beige;
 }
 
 .hero {
