@@ -47,6 +47,7 @@ section {
     justify-content: center;
     gap: 50px;
     background-color: beige;
+    flex-wrap: wrap;
 }
 
 .hero {
@@ -83,12 +84,11 @@ img {
     flex-wrap: wrap;
 }
 
-.goated,
-.happy,
-.loveyourself,
-.staysteady {
+.meme {
     width: 250px;
 }
+
 .text {
     margin-top: 10px;
 }
+
