@@ -46,5 +46,13 @@ a {
 }
 
 .left-side button {
-    
+    border: 0;
+}
+
+button {
+    padding: 4px 24px;
+    border-radius: 4px;
+    font-weight: 700;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.565);
 }
