@@ -54,10 +54,11 @@ section {
 button {
     font-family: inherit;
     white-space: nowrap;
-    width: 92px;
+    width: 120px;
+    height: 38px;
     padding: 4px 24px;
     border-radius: 8px;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 700;
     color: white;
     background-color: rgb(180, 0, 0);
@@ -123,11 +124,11 @@ img {
     display: flex;
     color: white;
     background-color: #7a0000;
-    width: 40vw;
+    width: 55vw;
     border-radius: 10px;
     justify-content: space-around;
     align-items: center;
-    padding: 40px 100px;
+    padding: 50px 100px;
     gap: 30px;
 }
 
