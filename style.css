@@ -67,3 +67,19 @@ button {
 img {
     border-radius: 25px;
 }
+
+.inspire-section {
+    text-align: center;
+}
+
+.inspire-text {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.inspire-memes {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
