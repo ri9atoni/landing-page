@@ -36,6 +36,11 @@ a {
     color: #464646
 }
 
+section {
+    margin-bottom: 30px;
+    padding: 60px;
+
+}
 .hero-section {
     display: flex;
     justify-content: center;
