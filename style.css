@@ -92,3 +92,10 @@ img {
     margin-top: 10px;
 }
 
+.quote-section {
+    background-color: bisque;
+}
+
+.quote-container {
+    display: flex;
+}
