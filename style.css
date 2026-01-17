@@ -6,7 +6,7 @@ body {
 .site-header {
     display: flex;
     justify-content: space-between;
-    align-items: cent4eer;
+    align-items: center;
     padding: 20px 100px;
     gap: 50px;
 }
