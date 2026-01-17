@@ -6,7 +6,7 @@ body {
 .site-header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: cent4eer;
     padding: 20px 100px;
     gap: 50px;
 }
@@ -42,7 +42,7 @@ section {
     display: flex;
     justify-content: center;
     gap: 50px;
-    background-color: beige;
+    background-color: rgb(255, 252, 219);
     flex-wrap: wrap;
 }
 
@@ -107,7 +107,7 @@ img {
 }
 
 .quote-section {
-    background-color: bisque;
+    background-color: rgb(255, 250, 198);
     display: flex;
     justify-content: center;
 }
