@@ -94,8 +94,18 @@ img {
 
 .quote-section {
     background-color: bisque;
+    display: flex;
+    justify-content: center;
 }
 
 .quote-container {
-    display: flex;
+    width: 500px;
+}
+
+.quote {
+    text-align: center;
+}
+
+.elon {
+    text-align: right;
 }
