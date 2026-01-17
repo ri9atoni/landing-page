@@ -5,3 +5,8 @@ body {
 button {
     font-family: inherit;
 }
+
+
+.site-header {
+    display: flex;
+}
