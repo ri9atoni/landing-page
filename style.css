@@ -83,6 +83,12 @@ img {
     flex-wrap: wrap;
 }
 
+.goated,
+.happy,
+.loveyourself,
+.staysteady {
+    width: 250px;
+}
 .text {
     margin-top: 10px;
 }
