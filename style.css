@@ -82,4 +82,9 @@ img {
     display: flex;
     gap: 50px;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+.text {
+    margin-top: 10px;
 }
