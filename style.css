@@ -113,3 +113,20 @@ img {
     text-align: right;
     font-weight: bold;
 }
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    display: flex;
+    color: white;
+    background-color: #7a0000;
+    width: 35vw;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 100px;
+    gap: 100px;
+}
