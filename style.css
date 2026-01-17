@@ -99,13 +99,17 @@ img {
 }
 
 .quote-container {
-    width: 500px;
+    width: 600px;
 }
 
 .quote {
     text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 10px;
 }
 
 .elon {
     text-align: right;
+    font-weight: bold;
 }
